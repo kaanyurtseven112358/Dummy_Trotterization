@@ -1,0 +1,3 @@
+# Dummy_Trotterization
+It is used to justification on special hamiltonian for protein folding problem. The why I share it to inform it is pretty much easy to create a dummy Trotterization for experimentation. So, don't hesitate to apply Trotter-Suzuki formula if you do not know how to use VQE. :)
+This code is run under the real Quantum Computer. Therefore, the result is pseduoperiodic. If you run it on a simulater such as "qasm_sim" you would get a really nice periodic probabilities. To solve pseudoperiodic functions or data, I plan to use QML to achive better result and optimize the circuit to be accuretally enough to discriminate the data. 
